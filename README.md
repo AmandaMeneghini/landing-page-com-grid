@@ -6,8 +6,10 @@ Aplicando **propriedades Grid** na elaboração de uma Landing Page da [Agência
 
 ## Design Desktop e Responsivo
 
-<img src="./src/images/Design/desktopversion.gif" style="width: 400px">
-<img src="./src/images/Design/mobileversion.gif" style="width: 227px">
+<div>
+    <img src="./src/images/Design/desktopversion.gif" style="width: 400px">
+    <img src="./src/images/Design/mobileversion.gif" style="width: 227px">
+</div>
 
 ## Tecnologias Utilizadas
 <div>
